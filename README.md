@@ -8,7 +8,7 @@ The projects are various analytics scripts written with python and available in 
 
 2.Species Visibility Analysis
 
-4.Sample Gradeing analysis
+3.Sample Gradeing analysis
 
 
 
